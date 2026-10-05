@@ -12,6 +12,10 @@ target_include_directories(sim800_at INTERFACE
     ${CMAKE_CURRENT_SOURCE_DIR}/include/sim800_at
 )
 
+install(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE
+    DESTINATION share/doc/sim800_at_urc_db
+)
+
 enable_testing()
 
 add_executable(test_database tests/test_at_db.cpp)
