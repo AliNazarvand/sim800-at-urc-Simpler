@@ -66,7 +66,9 @@ Three layers:
 
 ## Related Project
 
-- [sim800-at-deltas](https://github.com/AliNazarvand/sim800-at-deltas) — per-module hardware and AT differences for the same module family.
+- [sim800-at-deltas](https://github.com/AliNazarvand/sim800-at-deltas)
+- [sim800-at-urc]   (https://github.com/AliNazarvand/sim800-at-urc)
+- [sim800-at-urc]   (https://github.com/AliNazarvand/sim800-capabilities)
 
 ## License
 
