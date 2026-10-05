@@ -1,5 +1,7 @@
 # SIMCom SIM800 Series - AT Command & URC Reference
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Static, header-only C++17 database of AT Commands and URCs for the
 SIMCom SIM800 Series module family, targeting ESP32-WROOM-32 firmware.
 
@@ -66,3 +68,6 @@ Three layers:
 
 - [sim800-at-deltas](https://github.com/AliNazarvand/sim800-at-deltas) — per-module hardware and AT differences for the same module family.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
